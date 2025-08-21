@@ -45,6 +45,10 @@ Create a Prompt Flow for WanderMate that orchestrates prompts and other activiti
 1. Language Model: GPT-4o
 2. Cloud AI Platform: Azure AI Foundry
 
+## References
+
+Microsoft Learn
+
 ## Demo
 
 ![AI-Travel-Assistant-with-Prompt-Flow-Demo](https://github.com/user-attachments/assets/f8142998-c04b-4819-a76e-3a1e98c39192)
