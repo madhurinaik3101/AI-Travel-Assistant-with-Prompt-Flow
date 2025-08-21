@@ -47,5 +47,8 @@ Create a Prompt Flow for WanderMate that orchestrates prompts and other activiti
 
 ## Demo
 
-LINK: https://drive.google.com/file/d/1siQ2P_uqdoa5Lr88VpPpgrILFBgqYEwV/view?usp=drive_link
+![AI-Travel-Assistant-with-Prompt-Flow-Demo](https://github.com/user-attachments/assets/f8142998-c04b-4819-a76e-3a1e98c39192)
+
+
+Full DEMO LINK: https://drive.google.com/file/d/1siQ2P_uqdoa5Lr88VpPpgrILFBgqYEwV/view?usp=drive_link
 
